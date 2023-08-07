@@ -37,7 +37,7 @@ const TrackInformation = ({ isDarkMode, selectedTrack, setSelectedTrack }) => {
       </div>
         <div>
             <h1 className="text-5xl font-bold mt-6 mb-6 tablet:text-xl small:text-xl">Lyrics</h1>
-            <pre className="font-bold tablet:text-sm tablet:text-center small:text-xs">{lyrics}</pre>
+            <pre className="font-bold tablet:text-sm tablet:text-center small:text-xs whitespace-pre-wrap">{lyrics}</pre>
       </div>
     </div>
   );
