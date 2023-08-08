@@ -56,10 +56,10 @@ If the lyrics are not available, a message indicating that the lyrics are not av
 <h1>Usage</h1>
 
 1. Enter the title or author of a song in the search bar.
-2. Click the search button to retrieve track results.
+2. Press enter for start the search.
 3. Click on a track to view its detailed information.
 4. Click the "Check track" button to view the lyrics of the selected track.
-5. Use the theme toggle to switch between dark and light mode.
+5. Use the theme toggle to switch between dark and light mode.(optional)
    
 <h1>Contributing</h1>
 Contributions are welcome! If you find any issues or would like to enhance the app, feel free to open an issue or create a pull request.
