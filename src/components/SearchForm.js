@@ -16,6 +16,7 @@ const SearchForm = ({ isDarkMode, searchQuery, setSearchQuery, handleSearch }) =
           placeholder="Song title or author..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
+          maxLength={50}
         />
       </form>
     </div>
