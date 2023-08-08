@@ -5,8 +5,8 @@ Harmony is a web application built using React that allows users to search for s
 
 Make sure you have the following software installed on your machine:
 
-Node.js (v12 or later);
-npm (Node Package Manager);
+1. Node.js (v12 or later);
+2. npm (Node Package Manager);
 
 <h1>Getting Started</h1>
 Prerequisites
