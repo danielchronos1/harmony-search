@@ -67,4 +67,5 @@ Contributions are welcome! If you find any issues or would like to enhance the a
 <h1>License</h1>
 This project is licensed under the MIT License.
 
-This site was built using [GitHub Pages]([https://pages.github.com/](https://danielchronos1.github.io/harmony-search/)https://danielchronos1.github.io/harmony-search/).
+This site was built using [GitHub Pages](https://danielchronos1.github.io/harmony-search/).
+
